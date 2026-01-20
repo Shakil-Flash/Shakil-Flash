@@ -1,13 +1,19 @@
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3670&height=120&section=header"/>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+SHAKIL;Full-Time+App+Developer..;I+build+clean%2C+modern+App+experiences" />
 <br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=400&color=FF3670&center=true&vCenter=true&width=900&lines=App+Developer+by+Day+🌞;Bug+Fixer+by+Night+🌙;Flutter+%7C+React+%7C+Firebase;Turning+Coffee+Into+Apps+☕➡️📱" />
+
 🐛 I don’t create bugs — I discover undocumented features  
 ☕ Powered by coffee, Stack Overflow & dark mode  
 🔁 “Just one small change” – Famous last words  
 📱 If it works on my device, it ships
-
+<img src="https://github.com/shakil-flash/shakil-flash/raw/output/github-contribution-grid-snake.svg" />
+ 
 
 09:00 — Open IDE  
 09:01 — Google the error  
@@ -15,6 +21,12 @@
 09:31 — Error moves to a new line  
 10:00 — Question life choices  
 11:00 — Finally works (don’t touch it)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+
 
 🚀 Fun Facts About Me
 
@@ -25,6 +37,8 @@
 🎯 Bugs fear me (sometimes)
 
 🔥 Dark mode is my lifestyle
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil-flash&theme=react-dark&bg_color=0d1117&color=FF3670&line=FF3670&point=FFFFFF&hide_border=true"/>
+
 
 <br/>
 
@@ -33,6 +47,21 @@
 <img src="https://komarev.com/ghpvc/?username=shakil-flash&style=for-the-badge&color=101010"/>
 
 </div>
+<img src="https://skillicons.dev/icons?i=flutter,react,firebase,nodejs&theme=dark" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://user-images.githubusercontent.com/74038190/216656947-9c0c5d7e-4c7c-4cf7-b80f-9c8b1c7f4d45.gif" width="100%"/>
+<div align="center">
+🔥🚀📱💻⚡  
+<b>Building apps that don’t crash (most of the time)</b>  
+⚡💻📱🚀🔥
+</div>
+
+
+
+
+
 
 
 ## 🚀 About Me
@@ -115,6 +144,8 @@ I’m **TARIFUL ISLAM SHAKIL**, a **Full-Time App Developer..!** who loves turni
 </div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3670&height=120&section=footer"/>
 
 <div align="center">
 
