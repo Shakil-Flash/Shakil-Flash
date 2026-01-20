@@ -43,7 +43,7 @@
 🔥 Dark mode is my lifestyle
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil-flash&theme=react-dark&bg_color=0d1117&color=FF3670&line=FF3670&point=FFFFFF&hide_border=true"/>
 <div align="center">
-  <img src="[[https://media.giphy.com/media/111ebonMs90YLu/giphy.gif](https://tenor.com/view/bug-programmer-life-gif-14891409)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YThiY3N1NnNoZnAybHhhbndvdnQ2cjVmaGdsNmozY2NiaGV4anNlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6arSJwtKZBtWCRzg6d/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif](https://tenor.com/view/bug-programmer-life-gif-14891409)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YThiY3N1NnNoZnAybHhhbndvdnQ2cjVmaGdsNmozY2NiaGV4anNlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6arSJwtKZBtWCRzg6d/giphy.gif" width="450"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
