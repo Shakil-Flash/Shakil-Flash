@@ -26,6 +26,10 @@
 </div>
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/kwCJA19mepUJSbAebj/giphy.gif" width="450"/>
+</div>
+
 
 
 🚀 Fun Facts About Me
@@ -38,6 +42,40 @@
 
 🔥 Dark mode is my lifestyle
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil-flash&theme=react-dark&bg_color=0d1117&color=FF3670&line=FF3670&point=FFFFFF&hide_border=true"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="300"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="380"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="350"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/9r3p6qYIu3EVy/giphy.gif" width="360"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/5xtDarqCp0eomZaFJWw/giphy.gif" width="300"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="250"/>
+  <br/>
+  <b>“99 little bugs in the code… take one down, 127 bugs in the code.”</b>
+</div>
+
+
 
 
 <br/>
