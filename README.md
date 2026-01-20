@@ -43,16 +43,16 @@
 🔥 Dark mode is my lifestyle
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakil-flash&theme=react-dark&bg_color=0d1117&color=FF3670&line=FF3670&point=FFFFFF&hide_border=true"/>
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsYXU5cHZ0Z3NwcnBpNW1nMjlpNHZ2enFha3F4c3N6Zzk5ZXhzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6arSJwtKZBtWCRzg6d/giphy.gif" width="450"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpsYXU5cHZ0Z3NwcnBpNW1nMjlpNHZ2enFha3F4c3N6Zzk5ZXhzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6arSJwtKZBtWCRzg6d/giphy.gif" width="800"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="820"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="380"/>
+  <img src="https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif" width="880"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
