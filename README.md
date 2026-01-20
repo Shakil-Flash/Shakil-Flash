@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+SHAKIL;Full-Time+App+Developer..;I+build+clean%2C+modern+App+experiences" />
+<br/>
 🐛 I don’t create bugs — I discover undocumented features  
 ☕ Powered by coffee, Stack Overflow & dark mode  
 🔁 “Just one small change” – Famous last words  
