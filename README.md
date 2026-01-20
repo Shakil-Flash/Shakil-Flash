@@ -2,6 +2,28 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+SHAKIL;Full-Time+App+Developer..;I+build+clean%2C+modern+App+experiences" />
+🐛 I don’t create bugs — I discover undocumented features  
+☕ Powered by coffee, Stack Overflow & dark mode  
+🔁 “Just one small change” – Famous last words  
+📱 If it works on my device, it ships
+
+
+09:00 — Open IDE  
+09:01 — Google the error  
+09:30 — Fix it  
+09:31 — Error moves to a new line  
+10:00 — Question life choices  
+11:00 — Finally works (don’t touch it)
+
+🚀 Fun Facts About Me
+
+👨‍💻 I talk to my code more than people
+
+💤 Dreaming in async/await
+
+🎯 Bugs fear me (sometimes)
+
+🔥 Dark mode is my lifestyle
 
 <br/>
 
