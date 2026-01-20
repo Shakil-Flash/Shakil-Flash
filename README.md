@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm TARIFUL ISLAM SHAKIL</h1>
-<h3 align="center">A passionate App developer from Bangladesh</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tamiz+Uddin;I'm+Web+Designer+Developer)](https://git.io/typing-svg)
+
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakil-flash&label=Profile%20views&color=0e75b6&style=flat" alt="shakil-flash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakil-flash" alt="shakil-flash" /></a> </p>
