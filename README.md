@@ -1,12 +1,4 @@
-Love the ambition 😄
-Here’s a **next-level GitHub README redesign**—clean, cinematic, personal, and *portfolio-grade*. It’s structured to feel premium and unique, not like the usual copy-paste profiles.
 
-You can **copy–paste this entire README** and just replace usernames/links if needed.
-
----
-
-````markdown
-<!-- HERO SECTION -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Tamiz+Uddin;Creative+Web+Designer+%26+Developer;I+build+clean%2C+modern+web+experiences" />
@@ -19,7 +11,6 @@ You can **copy–paste this entire README** and just replace usernames/links if 
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -29,7 +20,7 @@ You can **copy–paste this entire README** and just replace usernames/links if 
 🧠 Always learning, always building
 ````
 
-I’m **Tamiz Uddin**, a **Web Designer & Full-Stack Developer** who loves turning ideas into fast, scalable, and visually stunning digital products.
+I’m **TARIFUL ISLAM SHAKIL**, a **Full-Time App Developer..!** who loves turning ideas into fast, scalable, and visually stunning digital products.
 
 > *“Talk is cheap. Show me the code.”* – Linus Torvalds
 
