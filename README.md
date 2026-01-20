@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+TARIFUL+ISLAM+SHAKIL;Full-Time App Developer..;I+build+clean%2C+modern+App+experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+TARIFUL+ISLAM+SHAKIL;Full-Time+App+Developer..;I+build+clean%2C+modern+App+experiences" />
 
 <br/>
 
