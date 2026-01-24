@@ -10,30 +10,20 @@
 ███████╗███████║███████║█████╔╝ ██║██║     
 ╚════██║██╔══██║██╔══██║██╔═██╗ ██║██║     
 ███████║██║  ██║██║  ██║██║  ██╗██║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-    [ FULL-TIME APP ARCHITECT | CODE SORCERER ]
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-<!-- CYBERPUNK TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=FF3670&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=👨‍💻+ARCHITECT+OF+DIGITAL+EXPERIENCES;⚡+FLUTTER+•+REACT+•+FIREBASE+NINJA;🚀+TURNING+BUGS+INTO+FEATURES+SINCE+2020" alt="Typing SVG" />
+<!-- MEGA ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=1000&lines=👨‍💻+FULL-STACK+ARCHITECT+%26+CODE+SORCERER;⚡+FLUTTER+NINJA+•+REACT+WIZARD+•+FIREBASE+MASTER;🚀+BUILDING+APPS+THAT+MAKE+PEOPLE+SAY+WOW;💻+TURNING+COFFEE+INTO+CODE+SINCE+2020;🔥+99+BUGS+IN+THE+CODE...+FIX+ONE...+127+BUGS!;🌙+DARK+MODE+ENTHUSIAST+%7C+LIGHT+MODE+%3D+👀💀" alt="Typing SVG" />
+
+<!-- ANIMATED SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=300&color=00D4FF&center=true&vCenter=true&width=900&lines=Full-Time+App+Developer+by+Day+🌞;Bug+Fixer+%26+Coffee+Addict+by+Night+🌙;Stack+Overflow+Certified+Professional+🏅;Creating+Bugs+Since+Forever+🐛;Just+Kidding...+I+Fix+Them+(Sometimes)+😅" alt="Subtitle Typing" />
 
 ---
 
 ### 🎮 TERMINAL STATUS
 
-```bash
-$ whoami
-> shakil-flash: Full-Stack Sorcerer & Mobile Magician
-
-$ cat /etc/motd
-> ⚡ Coding since the dark ages (2020)
-> 🔥 99 problems but a bug ain't one (it's 127)
-> ☕ Coffee-to-Code converter: 100% efficiency
-> 🌙 Dark mode enthusiast | Light mode = eye damage
-
-$ uptime
-> 🔋 System online: 24/7/365 | Sleep mode: deprecated
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=500&color=00FF00&width=900&lines=%24+whoami;%3E+shakil-flash%3A+Full-Stack+Sorcerer+%26+Mobile+Magician;%24+cat+%2Fetc%2Fmotd;%3E+⚡+Coding+since+the+dark+ages+(2020);%3E+🔥+99+problems+but+a+bug+ain't+one+(it's+127);%3E+☕+Coffee-to-Code+converter%3A+100%25+efficiency;%3E+🌙+Dark+mode+enthusiast+%7C+Light+mode+%3D+eye+damage;%24+uptime;%3E+🔋+System+online%3A+24%2F7%2F365+%7C+Sleep+mode%3A+deprecated" alt="Terminal Animation" />
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -42,36 +32,22 @@ $ uptime
 
 ## 🌟 SHAKIL.EXE — SYSTEM OVERVIEW
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF3670&width=900&lines=⚡+INITIALIZING+SHAKIL.EXE...;✅+LOADING+SKILLS...+COMPLETE;🔥+POWER+LEVEL%3A+OVER+9000!" alt="System Init" />
+
 <table>
 <tr>
 <td width="50%">
 
 ### 🎯 CORE FUNCTIONS
-```javascript
-const shakil = {
-  role: "Full-Stack Developer",
-  language: "JavaScript, Dart, Python",
-  frameworks: ["Flutter", "React", "Node.js"],
-  database: ["Firebase", "MongoDB", "MySQL"],
-  currentMission: "Building apps that slap 💥",
-  funFact: "I debug with console.log like a boss"
-};
-```
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=50&pause=3000&color=00D4FF&width=500&lines=const+shakil+%3D+%7B;++role%3A+'Full-Stack+Developer'%2C;++language%3A+'JavaScript%2C+Dart%2C+Python'%2C;++frameworks%3A+%5B'Flutter'%2C+'React'%2C+'Node.js'%5D%2C;++database%3A+%5B'Firebase'%2C+'MongoDB'%2C+'MySQL'%5D%2C;++currentMission%3A+'Building+apps+that+slap+💥'%2C;++funFact%3A+'I+debug+with+console.log'%0A%7D%3B" alt="Code Block" />
 
 </td>
 <td width="50%">
 
 ### ⚡ POWER LEVELS
-```python
-skills = {
-    "Frontend Magic": "████████░░ 85%",
-    "Backend Wizardry": "███████░░░ 78%",
-    "Mobile Sorcery": "█████████░ 92%",
-    "Coffee Addiction": "██████████ 100%",
-    "Bug Creation": "█░░░░░░░░░ 10%",
-    "Bug Fixing": "█████████░ 90%"
-}
-```
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=50&pause=3000&color=8A2BE2&width=500&lines=skills+%3D+%7B;++'Frontend+Magic'%3A+'████████░░+85%25'%2C;++'Backend+Wizardry'%3A+'███████░░░+78%25'%2C;++'Mobile+Sorcery'%3A+'█████████░+92%25'%2C;++'Coffee+Addiction'%3A+'██████████+100%25'%2C;++'Bug+Creation'%3A+'█░░░░░░░░░+10%25'%2C;++'Bug+Fixing'%3A+'█████████░+90%25'%0A%7D" alt="Skills" />
 
 </td>
 </tr>
@@ -83,6 +59,8 @@ skills = {
 ---
 
 ## 💻 TECH STACK — WEAPONS OF CHOICE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF3670&center=true&vCenter=true&width=1000&lines=🎨+FRONTEND+ARSENAL+⚔️;⚙️+BACKEND+%26+CLOUD+FORTRESS+🏰;📱+MOBILE+DOMINANCE+👑;🗄️+DATABASE+KINGDOM+💾;🛠️+DEVELOPER+TOOLKIT+🔧" alt="Tech Stack Headers" />
 
 <div align="center">
 
@@ -110,6 +88,8 @@ skills = {
 
 ## 📊 GITHUB BATTLEFIELD STATS
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=📈+ANALYZING+GITHUB+ACTIVITY...;🔥+COMMITS+DETECTED%3A+LEGENDARY+STATUS;⭐+CONTRIBUTION+LEVEL%3A+ELITE+DEVELOPER;💪+CONSISTENCY%3A+UNBREAKABLE+STREAK!" alt="Stats Header" />
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakil-flash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF3670&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" />
@@ -128,11 +108,15 @@ skills = {
 
 ## 🏆 ACHIEVEMENT SHOWCASE
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=🏆+UNLOCKING+ACHIEVEMENTS...;⭐+GITHUB+TROPHIES+COLLECTED;🎖️+LEGENDARY+STATUS+ACHIEVED;👑+MASTER+OF+THE+CODE+REALM" alt="Achievements" />
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shakil-flash&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&row=2"/>
 
-<!-- CUSTOM BADGES -->
+<!-- CUSTOM ANIMATED BADGES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=🥷+CODE+NINJA+•+LEVEL+99;⚔️+BUG+SLAYER+•+MASTER+RANK;☕+COFFEE+DRINKER+•+PROFESSIONAL;🌙+DARK+MODE+FOREVER+•+ENABLED" alt="Custom Badges" />
+
 <img src="https://img.shields.io/badge/Code_Ninja-Level_99-FF3670?style=for-the-badge&logo=ninja&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bug_Slayer-Master-00D4FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Coffee_Drinker-Professional-8A2BE2?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
@@ -143,6 +127,8 @@ skills = {
 ---
 
 ## 🎯 DAILY DEVELOPER ROUTINE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF3670&center=true&vCenter=true&width=900&lines=⏰+ANALYZING+DAILY+ROUTINE...;📊+GENERATING+PRODUCTIVITY+CHART...;☕+COFFEE+CONSUMPTION%3A+MAXIMUM+OVERDRIVE" alt="Routine Header" />
 
 <div align="center">
 
@@ -170,11 +156,16 @@ pie title "My Typical Day"
 
 ## 💭 DEVELOPER WISDOM
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=💡+WISDOM+FROM+THE+CODE+MASTERS;📚+LEGENDARY+QUOTES+INCOMING;🧠+KNOWLEDGE+IS+POWER+(AND+COFFEE)" alt="Wisdom Header" />
+
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" />
 
 ### 🎲 RANDOM DEV JOKE
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3000&pause=2000&color=00FF00&center=true&vCenter=true&width=800&lines=😂+LOADING+DEVELOPER+HUMOR...;🤣+ERROR+404%3A+SOCIAL+LIFE+NOT+FOUND;😅+WORKS+ON+MY+MACHINE+™;🙃+IT'S+NOT+A+BUG%2C+IT'S+A+FEATURE!" alt="Dev Jokes" />
+
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&qColor=%23FF3670&aColor=%2300D4FF" />
 
 </div>
@@ -183,16 +174,13 @@ pie title "My Typical Day"
 
 ## 🎨 CURRENT VIBES
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF3670&center=true&vCenter=true&width=900&lines=🎧+CURRENTLY+JAMMING+TO+LOFI;📚+LEARNING+WEB3+%26+BLOCKCHAIN;🎮+PLAYING+LIFE+ON+HARD+MODE;⚡+VIBES%3A+MAXIMUM+PRODUCTIVITY" alt="Current Vibes" />
+
 <div align="center">
 
 | 🎧 Currently Listening | 📚 Currently Learning | 🎮 Currently Playing |
 |:---:|:---:|:---:|
-| Lofi Hip Hop Radio 24/7 | Web3 & Blockchain | Life (Hard Mode) |
-| Synthwave Beats | AI/ML Algorithms | Chess (still losing) |
-| Epic Coding Playlists | System Design | The Debugging Game |
-
-<!-- SPOTIFY NOW PLAYING (Optional - needs setup) -->
-<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=true"/> -->
+| <img src="https://readme-typing-svg.demolab.com?font=Courier&size=14&duration=2000&pause=1000&color=1DB954&center=true&width=250&lines=Lofi+Hip+Hop+Radio+24%2F7;Synthwave+Beats;Epic+Coding+Playlists" /> | <img src="https://readme-typing-svg.demolab.com?font=Courier&size=14&duration=2000&pause=1000&color=FF6B6B&center=true&width=250&lines=Web3+%26+Blockchain;AI%2FML+Algorithms;System+Design" /> | <img src="https://readme-typing-svg.demolab.com?font=Courier&size=14&duration=2000&pause=1000&color=4ECDC4&center=true&width=250&lines=Life+(Hard+Mode);Chess+(still+losing);The+Debugging+Game" /> |
 
 </div>
 
@@ -200,36 +188,22 @@ pie title "My Typical Day"
 
 ## 🔥 FUN FACTS ABOUT ME
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=😈+DEVELOPER+LIFE+UNLOCKED;⚡+FUN+FACTS+LOADING...;🎯+PREPARE+FOR+LEGENDARY+STATS" alt="Fun Facts Header" />
+
 <table align="center">
 <tr>
 <td>
 
 ### 😈 Developer Life
 
-- 👨‍💻 I speak fluent JavaScript, Python, and Sarcasm
-- 🐛 My code doesn't have bugs, just undocumented features
-- ☕ Powered by coffee, Stack Overflow & pure spite
-- 🌙 I'm more productive at 3 AM than 3 PM
-- 🔁 "Quick fix" = 4 hours later
-- 💀 Merge conflicts are my cardio
-- 🎯 100% uptime (except when debugging)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=50&pause=3000&color=00FF00&width=500&lines=👨‍💻+I+speak+fluent+JavaScript%2C+Python%2C+and+Sarcasm;🐛+My+code+doesn't+have+bugs%2C+just+undocumented+features;☕+Powered+by+coffee%2C+Stack+Overflow+%26+pure+spite;🌙+I'm+more+productive+at+3+AM+than+3+PM;🔁+'Quick+fix'+%3D+4+hours+later;💀+Merge+conflicts+are+my+cardio;🎯+100%25+uptime+(except+when+debugging)" alt="Dev Life Facts" />
 
 </td>
 <td>
 
 ### ⚡ Power Stats
 
-```javascript
-while (alive) {
-  eat();
-  sleep(4); // hours
-  code();
-  repeat();
-}
-
-// Error: sleep is not defined
-// Solution: more coffee ☕
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=50&pause=3000&color=FF3670&width=500&lines=while+(alive)+%7B;++eat()%3B;++sleep(4)%3B+%2F%2F+hours;++code()%3B;++repeat()%3B;%7D;%2F%2F+Error%3A+sleep+is+not+defined;%2F%2F+Solution%3A+more+coffee+☕" alt="Code Loop" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -241,9 +215,11 @@ while (alive) {
 
 ## 📡 CONNECT WITH ME
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3670&center=true&vCenter=true&width=1000&lines=🌐+FIND+ME+ACROSS+THE+INTERNET;📱+LET'S+BUILD+SOMETHING+EPIC+TOGETHER;💬+ALWAYS+OPEN+TO+COLLABORATION;🚀+DM+ME+FOR+OPPORTUNITIES!" alt="Connect Header" />
+
 <div align="center">
 
-### 🌐 Find Me Across The Internet
+### 🌐 Social Links
 
 <a href="https://github.com/shakil-flash">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -266,6 +242,8 @@ while (alive) {
 
 ### 📈 VISITOR COUNT
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=👀+TRACKING+VISITORS...;📊+ANALYTICS+LOADING...;🎯+YOU+ARE+VISITOR+NUMBER..." alt="Visitor Count Header" />
+
 <img src="https://komarev.com/ghpvc/?username=shakil-flash&label=Profile%20Views&color=FF3670&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/shakil-flash?label=Followers&style=for-the-badge&color=00D4FF"/>
 <img src="https://img.shields.io/github/stars/shakil-flash?label=Stars&style=for-the-badge&color=8A2BE2"/>
@@ -278,6 +256,8 @@ while (alive) {
 <div align="center">
 
 ### 💬 FINAL WORDS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=💡+BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME;🚀+OPEN+TO+COLLABORATION+%26+NEW+OPPORTUNITIES;⚡+LET'S+CREATE+SOMETHING+AWESOME+TOGETHER!;🌟+THANKS+FOR+VISITING+MY+PROFILE!" alt="Final Words" />
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
@@ -295,6 +275,8 @@ while (alive) {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### ⭐ If you like my work, consider giving a star! ⭐
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF3670&center=true&vCenter=true&width=600&lines=⭐+STAR+THIS+REPO;🔥+FORK+IT;💻+CONTRIBUTE;🚀+SHARE+IT" alt="Call to Action" />
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
