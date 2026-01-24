@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- EPIC ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SHAKIL%20⚡%20ZONE&fontSize=70&color=0:FF3670,50:8A2BE2,100:00D4FF&fontColor=fff&animation=twinkling&stroke=FFFFFF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=FLASH%20⚡%20UNIVERSE&fontSize=70&color=0:FF3670,50:8A2BE2,100:00D4FF&fontColor=fff&animation=twinkling&stroke=FFFFFF&strokeWidth=2"/>
 
 <!-- MATRIX RAIN EFFECT VIBES -->
 ```
@@ -14,7 +14,7 @@
 ```
 
 <!-- MEGA ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=1000&lines=FULL+STACK+ARCHITECT+AND+CODE+SORCERER;FLUTTER+NINJA+REACT+WIZARD+FIREBASE+MASTER;BUILDING+APPS+THAT+MAKE+PEOPLE+SAY+WOW;TURNING+COFFEE+INTO+CODE+SINCE+2020;99+BUGS+IN+THE+CODE+FIX+ONE+127+BUGS;DARK+MODE+ENTHUSIAST+LIGHT+MODE+EQUALS+PAIN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=1000&lines=FULL+TIME+DEVELOPER+AND+CODE+SORCERER;PYTHON+KOTLIN+NINJA+REACT+WIZARD+FIREBASE+MASTER;BUILDING+APPS+THAT+MAKE+PEOPLE+SAY+WOW;TURNING+COFFEE+INTO+CODE+SINCE+2020;99+BUGS+IN+THE+CODE+FIX+ONE+127+BUGS;DARK+MODE+ENTHUSIAST+LIGHT+MODE+EQUALS+PAIN" alt="Typing SVG" />
 
 <!-- ANIMATED SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=300&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Time+App+Developer+by+Day;Bug+Fixer+and+Coffee+Addict+by+Night;Stack+Overflow+Certified+Professional;Creating+Bugs+Since+Forever;Just+Kidding+I+Fix+Them+Sometimes" alt="Subtitle Typing" />
