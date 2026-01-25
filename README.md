@@ -107,6 +107,10 @@ skills = {
 ## 📊 GITHUB BATTLEFIELD STATS
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=ANALYZING+GITHUB+ACTIVITY;COMMITS+DETECTED+LEGENDARY+STATUS;CONTRIBUTION+LEVEL+ELITE+DEVELOPER;CONSISTENCY+UNBREAKABLE+STREAK" alt="Stats Header" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakil-Flash&theme=react-dark&area=true" />
+</p>
+
 
 <div align="center">
 
