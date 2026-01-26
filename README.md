@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- EPIC ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=FLASH%20⚡%20UNIVERSE&fontSize=70&color=0:FF3670,50:8A2BE2,100:00D4FF&fontColor=fff&animation=twinkling&stroke=FFFFFF&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=FLASH%20⚡%20UNIVERSE&fontSize=70&color=0:FF3670,50:8A2BE2,100:00D4FF&fontColor=fff&animation=twinkling&stroke=FFFFFF&strokeWidth=2&section=header"/>
 
 <!-- MATRIX RAIN EFFECT VIBES -->
 ```
-███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗██╗     
-██╔════╝██║  ██║██╔══██╗██║ ██╔╝██║██║     
-███████╗███████║███████║█████╔╝ ██║██║     
-╚════██║██╔══██║██╔══██║██╔═██╗ ██║██║     
-███████║██║  ██║██║  ██║██║  ██╗██║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+███████╗██╗      █████╗ ███████╗██╗  ██╗
+██╔════╝██║     ██╔══██╗██╔════╝██║  ██║
+█████╗  ██║     ███████║███████╗███████║
+██╔══╝  ██║     ██╔══██║╚════██║██╔══██║
+██║     ███████╗██║  ██║███████║██║  ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 <!-- MEGA ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=1000&lines=FULL+TIME+DEVELOPER+AND+CODE+SORCERER;PYTHON+KOTLIN+NINJA+REACT+WIZARD+FIREBASE+MASTER;BUILDING+APPS+THAT+MAKE+PEOPLE+SAY+WOW;TURNING+COFFEE+INTO+CODE+SINCE+2020;99+BUGS+IN+THE+CODE+FIX+ONE+127+BUGS;DARK+MODE+ENTHUSIAST+LIGHT+MODE+EQUALS+PAIN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF3670&center=true&vCenter=true&width=1000&lines=FULL+TIME+DEVELOPER+AND+CODE+SORCERER;PYTHON+KOTLIN+NINJA+DJANGO+WIZARD+LINUX+MASTER;BUILDING+APPS+THAT+MAKE+PEOPLE+SAY+WOW;TURNING+COFFEE+INTO+CODE+SINCE+2020;99+BUGS+IN+THE+CODE+FIX+ONE+127+BUGS;DARK+MODE+ENTHUSIAST+LIGHT+MODE+EQUALS+PAIN" alt="Typing SVG" />
 
 <!-- ANIMATED SUBTITLE -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=300&color=00D4FF&center=true&vCenter=true&width=900&lines=Full+Time+App+Developer+by+Day;Bug+Fixer+and+Coffee+Addict+by+Night;Stack+Overflow+Certified+Professional;Creating+Bugs+Since+Forever;Just+Kidding+I+Fix+Them+Sometimes" alt="Subtitle Typing" />
@@ -38,42 +38,46 @@
 <tr>
 <td width="50%">
 
-🎯 CORE FUNCTIONS
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D4FF&width=500&lines=const+shakil+%3D+%7B;++role+Full+Stack+Developer;++language+JS+Dart+Python;++frameworks+Flutter+React+Node;++database+Firebase+MongoDB+MySQL;++mission+Building+apps+that+slap;++funFact+I+debug+with+console+log;%7D" alt="Core Functions" />
+### 🎯 CORE FUNCTIONS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D4FF&width=500&lines=const+shakil+%3D+%7B;++role+Full+Stack+Developer;++language+Python+Kotlin+Django;++frameworks+Django+Linux+GitHub;++database+PostgreSQL+MySQL;++mission+Building+apps+that+slap;++funFact+I+debug+with+print;%7D" alt="Core Functions" />
+
 <div align="left">
+
 ```javascript
 const shakil = {
   role: "Full-Stack Developer",
-  language: "JavaScript, Dart, Python",
-  frameworks: ["Flutter", "React", "Node.js"],
-  database: ["Firebase", "MongoDB", "MySQL"],
+  language: "Python, Kotlin, Django",
+  frameworks: ["Django", "Linux", "GitHub"],
+  database: ["PostgreSQL", "MySQL"],
   currentMission: "Building apps that slap",
-  funFact: "I debug with console.log"
+  funFact: "I debug with print()"
 };
 ```
+
 </div>
+
 </td>
 <td width="50%">
-⚡ POWER LEVELS
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&width=500&lines=Frontend+Magic+85+percent;Backend+Wizardry+78+percent;Mobile+Sorcery+92+percent;Coffee+Addiction+100+percent;Bug+Creation+10+percent;Bug+Fixing+90+percent" alt="Power Levels" />
+
+### ⚡ POWER LEVELS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&width=500&lines=Python+Mastery+95+percent;Kotlin+Skills+88+percent;Django+Power+92+percent;Coffee+Addiction+100+percent;Bug+Creation+10+percent;Bug+Fixing+90+percent" alt="Power Levels" />
+
 <div align="left">
+
 ```python
 skills = {
-    "Frontend Magic": "████████░░ 85%",
-    "Backend Wizardry": "███████░░░ 78%",
-    "Mobile Sorcery": "█████████░ 92%",
+    "Python Mastery": "█████████░ 95%",
+    "Kotlin Skills": "████████░░ 88%",
+    "Django Power": "█████████░ 92%",
     "Coffee Addiction": "██████████ 100%",
     "Bug Creation": "█░░░░░░░░░ 10%",
     "Bug Fixing": "█████████░ 90%"
 }
 ```
-</div>
-</td>
-</tr>
-</table>
-<!-- ANIMATED CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
+</div>
 
 </td>
 </tr>
@@ -86,24 +90,49 @@ skills = {
 
 ## 💻 TECH STACK — WEAPONS OF CHOICE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3670&center=true&vCenter=true&width=1000&lines=FRONTEND+ARSENAL;BACKEND+AND+CLOUD+FORTRESS;MOBILE+DOMINANCE;DATABASE+KINGDOM;DEVELOPER+TOOLKIT" alt="Tech Stack Headers" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF3670&center=true&vCenter=true&width=1000&lines=MY+TECH+ARSENAL;PYTHON+KOTLIN+DJANGO;LINUX+GITHUB+VSCODE;POWERED+BY+COFFEE" alt="Tech Stack Headers" />
 
 <div align="center">
 
-### 🎨 Frontend Arsenal
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui,figma,vite&perline=10&theme=dark" />
+### 💻 MY TECH STACK
 
-### ⚙️ Backend & Cloud Fortress
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,firebase,supabase,aws,gcp,azure&perline=10&theme=dark" />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="65"/>
+<br/><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width="65"/>
+<br/><strong>Kotlin</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" width="65"/>
+<br/><strong>Django</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65"/>
+<br/><strong>Linux</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65"/>
+<br/><strong>GitHub</strong>
+</td>
+<td align="center" width="120">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="65"/>
+<br/><strong>VS Code</strong>
+</td>
+</tr>
+</table>
 
-### 📱 Mobile Dominance
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,swift,react&perline=6&theme=dark" />
+<br/>
 
-### 🗄️ Database Kingdom
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite,graphql&perline=6&theme=dark" />
-
-### 🛠️ Developer Toolkit
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,npm,yarn,webpack,babel&perline=10&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
 
@@ -115,10 +144,6 @@ skills = {
 ## 📊 GITHUB BATTLEFIELD STATS
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=ANALYZING+GITHUB+ACTIVITY;COMMITS+DETECTED+LEGENDARY+STATUS;CONTRIBUTION+LEVEL+ELITE+DEVELOPER;CONSISTENCY+UNBREAKABLE+STREAK" alt="Stats Header" />
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakil-Flash&theme=react-dark&area=true" />
-</p>
-
 
 <div align="center">
 
@@ -231,7 +256,7 @@ pie title "My Typical Day"
 
 ### 😈 Developer Life
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=50&pause=3000&color=00FF00&width=500&lines=I+speak+fluent+JavaScript+Python+and+Sarcasm;My+code+has+no+bugs+just+undocumented+features;Powered+by+coffee+Stack+Overflow+and+pure+spite;More+productive+at+3+AM+than+3+PM;Quick+fix+equals+4+hours+later;Merge+conflicts+are+my+cardio;100+percent+uptime+except+when+debugging" alt="Dev Life Facts" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=50&pause=3000&color=00FF00&width=500&lines=I+speak+fluent+Python+Kotlin+and+Sarcasm;My+code+has+no+bugs+just+undocumented+features;Powered+by+coffee+Stack+Overflow+and+pure+spite;More+productive+at+3+AM+than+3+PM;Quick+fix+equals+4+hours+later;Merge+conflicts+are+my+cardio;100+percent+uptime+except+when+debugging" alt="Dev Life Facts" />
 
 </td>
 <td>
