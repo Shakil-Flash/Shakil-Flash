@@ -38,8 +38,9 @@
 <tr>
 <td width="50%">
 
-### 🎯 CORE FUNCTIONS
-
+🎯 CORE FUNCTIONS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=00D4FF&width=500&lines=const+shakil+%3D+%7B;++role+Full+Stack+Developer;++language+JS+Dart+Python;++frameworks+Flutter+React+Node;++database+Firebase+MongoDB+MySQL;++mission+Building+apps+that+slap;++funFact+I+debug+with+console+log;%7D" alt="Core Functions" />
+<div align="left">
 ```javascript
 const shakil = {
   role: "Full-Stack Developer",
@@ -50,12 +51,12 @@ const shakil = {
   funFact: "I debug with console.log"
 };
 ```
-
+</div>
 </td>
 <td width="50%">
-
-### ⚡ POWER LEVELS
-
+⚡ POWER LEVELS
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&width=500&lines=Frontend+Magic+85+percent;Backend+Wizardry+78+percent;Mobile+Sorcery+92+percent;Coffee+Addiction+100+percent;Bug+Creation+10+percent;Bug+Fixing+90+percent" alt="Power Levels" />
+<div align="left">
 ```python
 skills = {
     "Frontend Magic": "████████░░ 85%",
@@ -66,6 +67,13 @@ skills = {
     "Bug Fixing": "█████████░ 90%"
 }
 ```
+</div>
+</td>
+</tr>
+</table>
+<!-- ANIMATED CODING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
 
 </td>
 </tr>
